@@ -16,6 +16,24 @@ Each team member was asked to at least say their name on each round,
 but it is ok to "pass" if they prefer not to share anything about their answer
 to that question.   
 
+# NEXT: In a fork of your team repo
+
+* Add a directory called cs56
+* Under that directory, add m18
+* In that directory add README.md
+* In that file, record your team member names (just first names) and your agreements
+* Do a pull request.
+
+This will count towards the project grade for your team.
+
 # Repos for each team
 
+* https://github.com/ucsb-cs56-webapps/ucsb-cs56-ride2school
+* https://github.com/ucsb-cs56-webapps/ucsb-cs56-go
+* https://github.com/ucsb-cs56-webapps/ucsb-cs56-scrapstosnacks
+* https://github.com/ucsb-cs56-webapps/ucsb-cs56-gauchocourses
 
+* https://github.com/ucsb-cs56-webapps/ucsb-cs56-gogaucho
+* https://github.com/ucsb-cs56-webapps/ucsb-cs56-gauchogains
+* https://github.com/ucsb-cs56-webapps/ucsb-cs56-gauchoalarm
+* https://github.com/ucsb-cs56-webapps/ucsb-cs56-dogwalker
